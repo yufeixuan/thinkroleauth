@@ -1,0 +1,20 @@
+{
+    "name": "yufeixuan/thinkroleauth",
+    "description": "The ThinkPHP5 login and role auth Package.",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "phoenix",
+            "email": "luoxuan@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "thinkcms\\auth\\": ""
+        },
+        "files": [
+            "helper.php"
+        ]
+    }
+}
