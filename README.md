@@ -3,7 +3,7 @@
 
 ## 安装
 ~~~
-> composer require yufeixuan/thinkcms-auth
+> composer require yufeixuan/thinkroleauth
 ~~~
 ## v1.1更新
 * 1.加入了行为日志
